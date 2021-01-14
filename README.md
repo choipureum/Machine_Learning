@@ -1,2 +1,2 @@
 # Machine_Learning
-## 개인 
+### 머신러닝 및 데이터 분석 
